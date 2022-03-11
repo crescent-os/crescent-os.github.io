@@ -1,0 +1,6 @@
+- name: <i class="fas fa-wifi"></i> Status
+  link: https://status.islamic.network
+  window: new
+- name: <i class="fab fa-github"></i> Open Source
+  link: https://github.com/islamic-network
+  window: new
