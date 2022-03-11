@@ -18,14 +18,13 @@ metaDescription: crescent os, linux, os, tech, muslim, islam
             Muslim friendly Linux based open source Operating System. 
         </h3>
         <p>
-            We hope that providing these services will, first and foremost, be pleasing to our Lord, Allla
+            We hope that providing these services will first and foremost, be pleasing to our Lord, Allah (SWT).
         </p>
         <p>
-            We hope that these can provide a reminder of what is really important in this technology 
-        obsessed world - to connect with the Real.
+            We hope that these can provide a reminder of what is really important in this technology obsessed world - to connect with the Real.
         </p>
         <p>
-            May Allah Most High accept it and may He always guide us to His Truth.
+            May Allah most highly accept it and may He always guide us to His Truth.
         </p>
     </div>
 </div>
@@ -34,14 +33,15 @@ metaDescription: crescent os, linux, os, tech, muslim, islam
 
 <div class="row">
     <div class="col-sm-6">
-        <h3>Our Services</h3>
-        <p>Learn about the technology services, projects, applications and APIs maintained by Islamic Network.</p>
-        <p><a class="btn btn-success" href="/services.html" role="button">View Services »</a></p>
+        <h3>Download</h3>
+        <p>Get Crescent OS as your hardware.</p>
+        <p><a class="btn btn-success" href="/services.html" role="button">Docs »</a></p>
     </div>
     <div class="col-sm-6">
-        <h3>Get Involved</h3>
-        <p>There are many ways to get involved with and support the work we do - from contributing code to helping maintain infrastructure and more.</p>
-        <p><a class="btn btn-success" href="/contribute.html" role="button">Get Involved »</a></p>
+        <h3>Donate us!</h3>
+        <p>Support our work by donating us!</p>
+        <blockquote>Please be noted that we don't accept Zakat.</blockquote>
+        <p><a class="btn btn-success" href="/contribute.html" role="button">Support Our Work »</a></p>
     </div>
 </div>
 
