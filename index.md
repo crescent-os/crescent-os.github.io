@@ -34,8 +34,8 @@ metaDescription: crescent os, linux, os, tech, muslim, islam
 <div class="row">
     <div class="col-sm-6">
         <h3>Download</h3>
-        <p>Get Crescent OS as your hardware.</p>
-        <p><a class="btn btn-success" href="/services.html" role="button">Docs »</a></p>
+        <p>Get Crescent OS on your PC or Laptop.</p>
+        <p><a class="btn btn-success" href="/services.html" role="button">Download »</a></p>
     </div>
     <div class="col-sm-6">
         <h3>Donate us!</h3>
