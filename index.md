@@ -13,9 +13,9 @@ metaDescription: Applications, APIs and Hosting for Islamic Applications
 <div class="col-md-7 pt-3">
 <h2 class="font-mequran2 align-center">بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيْمِ</h2>
 <br />
-<h1>Islamic Network</h1>
+<h1>Crescent OS</h1>
 <h3>
-A network of free digital Islamic services 
+Muslim friendly Linux based open source Operating System. 
 </h3>
 <p>
 We hope that providing these services will, first and foremost, be pleasing to our Lord.
