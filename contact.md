@@ -16,9 +16,9 @@ metaDescription: Contact details for Islamic Network
 
 # Forums 
 
-![GitHub Discussions](https://img.shields.io/github/discussions/crescent-os/discussion-board?label=GitHub%20Discussion%20Board&logo=github&style=for-the-badge)
+<a href="https://github.com/crescent-os/discussion-board/discussions"><img src="https://img.shields.io/github/discussions/crescent-os/discussion-board?label=GitHub%20Discussion%20Board&logo=github&style=for-the-badge"></a>
 
-![Slack Channel](https://img.shields.io/badge/Slack%20Channel-Crescent%20OS-4a154b?style=for-the-badge&logo=slack)
+<a href="https://join.slack.com/t/slack-vhl9697/shared_invite/zt-y2lna8fa-xKwSx64AFXD6uuc18nl0Ug"><img src="https://img.shields.io/badge/Slack%20Channel-Crescent%20OS-4a154b?style=for-the-badge&logo=slack"></a>
   
-![Discord Server](https://img.shields.io/badge/Discord%20Server-Crescent%20OS-5865f2?style=for-the-badge&logo=discord)
+<a href="https://discord.gg/WgU5zqWy"><img src="https://img.shields.io/badge/Discord%20Server-Crescent%20OS-5865f2?style=for-the-badge&logo=discord"></a>
 
