@@ -1,16 +1,13 @@
 ---
 layout: simple
-title: About Islamic Network
+title: About Crescent OS
 metaDescription: Applications, APIs and Hosting for Islamic Applications
 ---
 
-# About Islamic Network
+# What is Crescent OS?
 
-Islamic Network started with the Al Adhan (<a href="https://aladhan.com" target="_blank">https://aladhan.com</a>) project as a way to play Adhan 5 times a day.
+Crescent OS is a Muslim friendly Linux based open source operating system.
 
-Alhamdulillah, more services have been added since and Islamic Network services over 100 million HTTP requests a month.
+# Why Crescent OS?
 
-All the code is available as Open Source repositories on <a href="https://github.com/islamic-network" target="_blank">GitHub</a>.
-
-If you'd like to learn more about the platform, please <a href="/contact">get in touch</a>.
-
+Today, in the world of internet is being used to (নৈতিকতা ধ্বংসের জন্য) . In this situation, we are developing Crescent OS, which is Haraam-free & gives the full control to user.
