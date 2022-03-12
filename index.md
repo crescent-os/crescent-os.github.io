@@ -35,13 +35,13 @@ metaDescription: crescent os, linux, os, tech, muslim, islam
     <div class="col-sm-6">
         <h3>Download</h3>
         <p>Get Crescent OS on your PC or Laptop.</p>
-        <p><a class="btn btn-success" href="/services.html" role="button">Download »</a></p>
+        <p><a class="btn btn-success" href="/download.html" role="button">Download »</a></p>
     </div>
     <div class="col-sm-6">
         <h3>Donate us!</h3>
         <p>Support our work by donating us!</p>
         <blockquote>Please be noted that we don't accept Zakat.</blockquote>
-        <p><a class="btn btn-success" href="/contribute.html" role="button">Support Our Work »</a></p>
+        <p><a class="btn btn-success" href="/donate.html" role="button">Support Our Work »</a></p>
     </div>
 </div>
 
