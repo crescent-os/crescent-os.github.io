@@ -9,8 +9,6 @@ metaDescription: crescent os, linux, os, tech, muslim, islam
 **Nagad:** 9856000616737041 [Virtual Card Number]          
 
 <br>
-<br>
-<br>
 
 ###  For Brothers & Sisters outside of Bangladesh
 
@@ -19,8 +17,6 @@ metaDescription: crescent os, linux, os, tech, muslim, islam
 **Open Collective:** <https://opencollective.com/crescentos>
 
 
-<br>
-<br>
 <br>
 
 <p class="callout info"> If you want to donate us to in another way please drop us a email to <a href="maito:donation@crescent-os.xyz">donation@crescent-os.xyz</a> or message us @ Telegram <a href="https://t.me/cos_fr_bot">https://t.me/cos_fr_bot</a></p>
