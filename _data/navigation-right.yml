@@ -1,6 +1,5 @@
-- name: Repo Status
-  link: https://repo.crescent-os.xyz
-  window: new
+# - name: Repo Status
+#   link: https://repo.crescent-os.xyz
+#   window: new
 - name: Get Crescent OS
   link: /download.html
-  window: new
