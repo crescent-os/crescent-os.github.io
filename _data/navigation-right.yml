@@ -1,6 +1,6 @@
-- name: <i class="fas fa-wifi"></i> Status
-  link: https://status.islamic.network
+- name: Repo Status
+  link: https://repo.crescent-os.xyz
   window: new
-- name: <i class="fab fa-github"></i> Open Source
-  link: https://github.com/islamic-network
+- name: Get Crescent OS
+  link: /download.html
   window: new
